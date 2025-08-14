@@ -1,0 +1,5 @@
+push_up
+sit_up
+plank
+lunge
+jumping_jack
